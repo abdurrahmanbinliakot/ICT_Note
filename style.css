@@ -1,0 +1,29 @@
+h5{
+    font-size: 1.2em;
+    /* line-height: 1.3em; */
+    line-height: 1em;
+    margin-bottom: 0.2em !important;
+    margin: 0;
+    padding: 0;
+    display: block;
+    color: rgba(0, 0, 0, 0.95);
+    /* font-weight: 500; */
+    font-family: inherit;
+    font-family: "Kalpurush";
+    font-weight: bold;
+}
+p{
+    font-family: "Kalpurush";
+    /* color: rgba(44,62,80,0.99); */
+    /* background: rgba(198,223,245,0.15); */
+    overflow-x: hidden;
+    /* font-size: 18px; */
+}
+li{
+    font-family: "Kalpurush";
+}
+p>b{
+    /* color: rgba(199, 6, 6, 0.95);  */
+    /* font-weight:bold; */
+    font-size: 1em;
+}
